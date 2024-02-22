@@ -1,6 +1,6 @@
 # Exercícios de Java - Semestre 2022.2 (POO)
 
-Bem-vindo ao repositório de exercícios de Java do semestre 2022.2! Este repositório contém uma coleção de atividades práticas realizadas em aula durante o curso de **Programação Orientada a Objetos (POO)** ministrado por **Roger M. Samento** (conhecido como `rogermsamento` no GitHub).
+Bem-vindo ao repositório de exercícios de Java do semestre 2022.2! Este repositório contém uma coleção de atividades práticas realizadas em aula durante o curso de **Programação Orientada a Objetos (POO)** ministrado por **Roger M. Samento**.
 
 ## Sobre o Curso
 
